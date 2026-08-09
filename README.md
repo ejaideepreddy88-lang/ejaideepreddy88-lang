@@ -14,13 +14,32 @@
 
 ### 👨‍💻 About Me
 
-I'm a final-year **B.Tech Information Technology** student with hands-on experience building **full-stack web applications** using Python and JavaScript. I enjoy turning ideas into working products — from backend logic and databases to clean, responsive interfaces.
+Fourth-year **B.Tech Information Technology** student (CGPA 8.41/10.0) with hands-on full-stack development experience in Python and JavaScript. I've built three full-stack applications — Career Compass, Agrescence, and Graduate Admission Predictor — using Flask, SQLite/MySQL, and responsive front-ends, integrating backend logic, databases, and ML models end-to-end.
 
 - 🚀 **Currently Building:** Full-stack platforms with Flask, SQL, and dynamic front-ends
 - 📚 **Currently Learning:** Advanced data analytics techniques and modern frontend frameworks
 - 💡 **Interests:** Web development, data analytics, and machine learning integration
-- 🎓 **Background:** Virtual internships at YBI Foundation (Python & ML) and Thiranex (Full Stack Development)
 - 🤝 **Looking for:** Full Stack Developer / Associate Software Developer internship opportunities
+
+---
+
+### 🎓 Education
+
+| Qualification | Institution |
+|---|---|
+| B.Tech, Information Technology (CGPA 8.41/10.0) | J.B. Institute of Engineering and Technology (JBIET) |
+| Pre-University (Intermediate, MPC) | Sri Chaitanya College, Hyderabad |
+| Secondary School Education (10th, CBSE) | The Nalgonda Public School, Nalgonda |
+
+---
+
+### 💼 Experience
+
+**Virtual Intern — YBI Foundation**
+Worked on Python and Machine Learning projects, gaining hands-on experience in data preprocessing and model development.
+
+**Virtual Intern — Thiranex**
+Participated in software development activities and collaborated on project-based tasks, applying programming concepts to build practical, full-stack solutions.
 
 ---
 
@@ -78,6 +97,14 @@ I'm a final-year **B.Tech Information Technology** student with hands-on experie
 - Thiranex Certificate — Python Full Stack
 - HackerRank — Python
 - Forage Simulation Certificate — Data Analytics
+
+---
+
+### 🏅 Achievements
+
+- Served as **Class Representative (CR)** — primary liaison between faculty and students, coordinating academic activities
+- Built and deployed **3 full-stack web applications** using Python, Flask, SQL, and JavaScript
+- Participated in a **Hackathon**, collaborating with a team to design and develop a software solution within a limited timeframe
 
 ---
 
