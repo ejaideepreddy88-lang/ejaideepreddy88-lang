@@ -8,6 +8,9 @@
   <a href="mailto:ejaideepreddy88@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://drive.google.com/file/d/1vDiuqQ1u0E3Xa0Y3ozvP1dVkAWlzs9Y9/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -22,14 +25,6 @@ Fourth-year **B.Tech Information Technology** student (CGPA 8.41/10.0) with hand
 - 🤝 **Looking for:** Full Stack Developer / Associate Software Developer internship opportunities
 
 ---
-
-### 🎓 Education
-
-| Qualification | Institution |
-|---|---|
-| B.Tech, Information Technology (CGPA 8.41/10.0) | J.B. Institute of Engineering and Technology (JBIET) |
-| Pre-University (Intermediate, MPC) | Sri Chaitanya College, Hyderabad |
-| Secondary School Education (10th, CBSE) | The Nalgonda Public School, Nalgonda |
 
 ---
 
@@ -100,19 +95,13 @@ Participated in software development activities and collaborated on project-base
 
 ---
 
-### 🏅 Achievements
-
-- Served as **Class Representative (CR)** — primary liaison between faculty and students, coordinating academic activities
-- Built and deployed **3 full-stack web applications** using Python, Flask, SQL, and JavaScript
-- Participated in a **Hackathon**, collaborating with a team to design and develop a software solution within a limited timeframe
-
----
 
 ### 📫 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jaideep-reddy-e-7b1106338"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ejaideepreddy88@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1vDiuqQ1u0E3Xa0Y3ozvP1dVkAWlzs9Y9/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>⭐️ From <a href="https://github.com/ejaideepreddy88-lang">ejaideepreddy88-lang</a></i></p>
